@@ -1,5 +1,3 @@
 ---
-title: Welcome to my blog!
-
-<p> this is my first paragraph </p>
+title: Welcome to my blog! my name is amir
 ---
